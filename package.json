@@ -1,6 +1,6 @@
 {
-	"author": "Deborah McVey",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Deborah McVey",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
